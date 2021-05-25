@@ -1,0 +1,7 @@
+{
+  "name": "xiv-heal-ability-simurator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "himanoa <matsunoappy@gmail.com>",
+  "license": "MIT"
+}
