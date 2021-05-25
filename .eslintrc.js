@@ -13,8 +13,8 @@ module.exports = {
     }
   },
   parser: "@typescript-eslint/parser",
-  plugins: ["@typescript-eslint"],
-  extends: ["eslint:recommended"],
+  plugins: ["@typescript-eslint", "react-hooks"],
+  extends: ["eslint:recommended", "plugin:react-hooks/recommended"],
   rules: {
     "@typescript-eslint/no-unused-vars": "error",
     "no-unused-vars": "off",
